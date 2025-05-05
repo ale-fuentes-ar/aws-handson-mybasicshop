@@ -1,0 +1,23 @@
+[
+    {
+      "id": 1,
+      "name": "Notebook Gamer",
+      "price": 1200,
+      "description": "Last-generation notebook with a 1TB SSD and 16GB of RAM.",
+      "image": "https://images.unsplash.com/photo-1569441508845-c6da9a35924c?w=400&auto=format&fit=crop",
+      "comments": [
+        { "user": "Alice", "text": "Excelente rendimiento!", "rating": 5 },
+        { "user": "Bob", "text": "God, but expensil.", "rating": 4 }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Mouse",
+      "price": 25,
+      "description": "Ergonomic mouse with a rechargeable battery.",
+      "image": "https://images.unsplash.com/photo-1703052399541-34d3bfa12e9c?w=400&auto=format&fit=crop",
+      "comments": [
+        { "user": "Charlie", "text": "Very confortavel.", "rating": 4 }
+      ]
+    }
+  ]
