@@ -5,5 +5,5 @@
 ![Last Commit (Branch)](https://img.shields.io/github/last-commit/ale-fuentes-ar/handson-APIRESTful-level3-RichardsonMaturity-Java-Angular/main)  ![Created At](https://img.shields.io/github/created-at/ale-fuentes-ar/handson-APIRESTful-level3-RichardsonMaturity-Java-Angular)
 
 > **Date**: 05/05/2025 <br> 
-> **Developer**: *Raul Alejandro Fuentes*
+> **Developer**: *Ale Fuentes*
 
